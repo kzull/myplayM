@@ -1,0 +1,27 @@
+[
+	  {
+		      "name": "freeCodeCamp",
+		          "owner": "freeCodeCamp",
+			      "description": "Learn to code for free.",
+			          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+				      "language": "TypeScript",
+				          "stars": 402000
+					    },
+					      {
+						          "name": "public-apis",
+							      "owner": "public-apis",
+							          "description": "A collective list of free APIs.",
+								      "url": "https://github.com/public-apis/public-apis",
+								          "language": "Python",
+									      "stars": 370000
+									        },
+										  {
+											      "name": "oh-my-zsh",
+											          "owner": "ohmyzsh",
+												      "description": "A community-driven framework for managing your zsh configuration.",
+												          "url": "https://github.com/ohmyzsh/ohmyzsh",
+													      "language": "Shell",
+													          "stars": 180000
+														    }
+]
+
